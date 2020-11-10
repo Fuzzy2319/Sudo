@@ -6,6 +6,6 @@ Be carfull this bat file can be dangerous use it at your own risk.
 
 Install : download the .bat file and add the directory were you put the .bat file in your path
 
-How to use it : open a terminal and type sudo <Task> <Args>
+How to use it : open a terminal and type sudo Task Args
 
 ENJOY
